@@ -1,5 +1,5 @@
 # InfinityPresence <sup>*WIP*</sup>
-A mod that adds Discord Rich Presence integration to Disney Infinity 1.0.
+A mod that adds Discord Rich Presence integration to Disney Infinity 1.0 via ASI Loader.
 
 ## Installation
 
