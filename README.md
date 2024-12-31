@@ -8,8 +8,8 @@ A mod that adds Discord Rich Presence integration to Disney Infinity 1.0 via ASI
 3. Extract all files to your game directory.
 
 ## Planned features
-- [ ] Find character variables(?)
-- [ ] Find current map variables(?)
+- [ ] Find character memory address(?)
+- [ ] Find current game mode memory address(?)
 - [ ] Show current character as Small Image
 - [ ] Show current game mode as Details
 - [ ] Show current game mode as Large Image
